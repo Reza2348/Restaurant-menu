@@ -16,7 +16,7 @@ const features = [
     title: "Fast Delivery",
     desc: "Our rocket-speed delivery ensures your food stays fresh and hot.",
     cta: "Learn More",
-    highlight: true,
+    highlight: false,
   },
   {
     icon: <img src={Img3} alt="" className=" w-12 h-12 mx-auto" />,
